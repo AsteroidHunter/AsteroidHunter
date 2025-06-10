@@ -1,4 +1,5 @@
-<img src="canyon_de_chelley_payne.jpg" width="288" height="241">
+<img src="canyon_de_chelley_payne.jpg" width="576" height="482" align="center">
+
 ## I am looking for work! 
 Broadly three sorts of roles that I think I would be adept at:
 1. Engineering positions which involves designing large language model agents, evaluating said models/agents, prompt engineering, model fine-tuning, and python-based pipeline development.
