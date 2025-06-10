@@ -1,4 +1,4 @@
-<img src="canyon_de_chelley_payne.jpg" width="576" height="482" align="center">
+<img src="canyon_de_chelley_payne_trunc.jpg">
 
 ## I am looking for work! 
 Broadly three sorts of roles that I think I would be adept at:
