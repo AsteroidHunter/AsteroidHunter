@@ -1,4 +1,5 @@
 <img src="canyon_de_chelley_payne_trunc.jpeg">
+
 A cropped version of *Canyon De Chelley* by Edgar Alwin Payne.
 
 ## I am looking for work! 
