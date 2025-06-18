@@ -1,4 +1,5 @@
 <img src="canyon_de_chelley_payne_trunc.jpeg">
+A cropped version of *Canyon De Chelley* by Edgar Alwin Payne.
 
 ## I am looking for work! 
 Broadly three sorts of roles that I think I would be adept at:
@@ -12,7 +13,7 @@ A few notable projects:
 1. [knightsGPT](https://github.com/AsteroidHunter/knightsGPT): Can a GPT-2 variant trained on millions of games *learn* how to solve the knight's tour puzzle? 
 2. [replicatingAlexnet](https://github.com/AsteroidHunter/replicatingAlexnet): PyTorch-based replication of the classic paper Krizhevsky et al. (2012).
 3. [Thermal modeling of (99942) Apophis](https://iopscience.iop.org/article/10.3847/PSJ/ac66d1): We used the non-linear optimization and a markov chain monte carlo algorithm to constrain the physical properties of the near-Earth asteroid (99942) Apophis. 
-4. [Tucson Effective Altruism](https://linktr.ee/tea_at_ua): An organization I co-founded and scaled. Our improved capcity enables us to run a university course, upskilling programs, research-styled symposia, and weekly community events.
+4. [Tucson Effective Altruism](https://linktr.ee/tea_at_ua): An organization I co-founded and scaled. Our improved capacity enables us to run a university course, upskilling programs, research-styled symposia, and weekly community events.
 
 <!--
 **AsteroidHunter/AsteroidHunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
