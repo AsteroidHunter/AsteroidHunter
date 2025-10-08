@@ -2,11 +2,8 @@
 
 A cropped version of *Canyon De Chelley* by Edgar Alwin Payne.
 
-## 👋 I am looking for work! 
-Broadly three sorts of roles that I believe I would be adept at:
-1. Engineering positions that involve designing large language model agents, evaluating said models/agents, prompt engineering, model fine-tuning, and python-based pipeline development.
-2. Research-y positions related to improving model reasoning, search and retrieval, capabilities & safety evaluations, and preference/value alignment in language models.
-3. Operational or managerial positions that demand a combination of technical and non-technical skills, wearing many hats and doing whatever it takes to get stuff done, computing risk and making calculated bets, managing communications and people, scaling an organization, and so on!
+## 👋 Bio
+I am developing Nudge (voice agent that helps users build habits and tackle lingering tasks) while actively exploring co-founding opportunities and early engineering/product roles in AI data infrastructure, safety systems, or hard tech. Please reach out if you are building in these spaces!
 
 📫 You can check out my [LinkedIn profile here](https://www.linkedin.com/in/satpathyakash/).
 
