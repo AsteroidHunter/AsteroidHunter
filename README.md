@@ -2,7 +2,7 @@
 
 A cropped version of *Canyon De Chelley* by Edgar Alwin Payne.
 
-[2025-11-28, 8:51 PM PST] **NOTE**: My website is undergoing reconstruction and the new version will be live by 2025-11-29, 01:00 AM PST.
+**NOTE**: My website is undergoing reconstruction and the new version will be live before 29th November, 1 AM PST.
 
 ## 👋 Bio
 I am developing [Nudge](https://givemeanudge.com/) (voice agent that helps users build habits and tackle lingering tasks) while actively exploring opportunities in AI data infrastructure, safety systems, or hard tech. Please reach out if you are building in these spaces!
