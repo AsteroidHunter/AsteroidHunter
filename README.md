@@ -5,7 +5,7 @@ A cropped version of *Canyon De Chelley* by Edgar Alwin Payne.
 ## 👋 Bio
 I am developing Nudge, a voice-first platform that helps users build habits and tackle lingering tasks, check it out here: https://givemeanudge.com
 
-Besides voice AI, I am broadly interested in AI data/physical infrastrucutre + model behavior and security.
+Besides voice AI, I am broadly interested in AI data/physical infrastructure + model behavior and security.
 
 📫 Feel free to reach out to me on [LinkedIn here](https://www.linkedin.com/in/satpathyakash/).
 
