@@ -7,7 +7,7 @@ Hi, I am a product developer. I built nudge, a voice-based productivity agent, a
 
 Besides voice AI and dev tools, I am interested in AI data/physical infrastructure + model behavior and security.
 
-🪄 You can browse my personal website here: https://theonetrueakash.com/
+🪄 You can browse [my personal website here!](https://theonetrueakash.com/)
 
 📫 Feel free to reach out to me on [LinkedIn here](https://www.linkedin.com/in/satpathyakash/).
 
